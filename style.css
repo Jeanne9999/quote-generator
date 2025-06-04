@@ -34,5 +34,10 @@ button {
 }
 
 button:hover {
+  background: #547eab;
+}
+
+button:active {
+  transform: scale(0.95);
   background: #4b719a;
 }
