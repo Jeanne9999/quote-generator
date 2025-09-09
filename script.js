@@ -1,14 +1,16 @@
 const quotes = [
-    "Η γνώση είναι δύναμη.",
-    "Ό,τι κάνεις με πάθος, το κάνεις καλά.",
-    "Η αρχή είναι το ήμισυ του παντός.",
-    "Η φαντασία είναι πιο σημαντική από τη γνώση. - A. Einstein",
-    "Όποιος δεν κάνει λάθη, δεν προσπαθεί αρκετά.",
-    "Η ζωή είναι 10% αυτό που σου συμβαίνει και 90% πώς αντιδράς σε αυτό.",
-    "Η ζωή είναι σαν ποδήλατο. Για να διατηρήσεις την ισορροπία σου, πρέπει να συνεχίσεις να κινείσαι.",
-    "Η μεγαλύτερη δόξα δεν είναι να μην πέφτουμε ποτέ, αλλά να σηκωνόμαστε κάθε φορά που πέφτουμε.",
-    "Η ζωή είναι αυτό που συμβαίνει ενώ κάνεις άλλα σχέδια. - J. Lennon",
-    "Το μέλλον ανήκει σε αυτούς που πιστεύουν στην ομορφιά των ονείρων τους. - E. Roosevelt",
+    "Knowledge is power. — Francis Bacon",
+    "Education is the best provision for old age. — Aristotle",
+    "Reputation follows virtue. — Socrates",
+    "Knowing yourself is the beginning of all wisdom. — Aristotle",
+    "Be the change you wish to see in the world. — Mahatma Gandhi",
+    "The journey of a thousand miles begins with a single step. — Lao Tzu",
+    "Everything flows. — Heraclitus",
+    "Happiness depends upon ourselves. — Aristotle",
+    "Life is what happens when you're busy making other plans. — John Lennon",
+    "Freedom is never given; it is won. — A. Philip Randolph",
+    "Failure is the mother of success. — Chinese proverb",
+    "The pen is mightier than the sword. — Edward Bulwer-Lytton",
 ];
 
 const quoteText = document.getElementById("quote");
