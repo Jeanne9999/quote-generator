@@ -1,26 +1,28 @@
-# 🎯 Random Quote Generator
+🎯 Random Quote Generator
+A simple JavaScript app that displays random quotes each time a button is pressed. Designed for presentation in this portfolio.
 
-Μια απλή εφαρμογή σε JavaScript που εμφανίζει τυχαία αποφθέγματα με κάθε πάτημα κουμπιού. Σχεδιάστηκε για παρουσίαση σε portfolio.
 
-## ✨ Λειτουργίες
-- Εμφανίζει τυχαία αποφθέγματα
-- Μοντέρνος responsive σχεδιασμός
-- Χρήση μόνο HTML, CSS και JavaScript
+✨ Features
+-Displays random quotes
+-Modern, responsive design
+-Built using only HTML, CSS and JavaScript
 
-## 🔗 Live Demo
+
+🔗 Live Demo
 Δες το live: [Δες εδώ](http://Jeanne9999.github.io/quote-generator/)
 
-## 📷 Screenshot
+
+📷 Screenshot
 ![Preview](Scr_quotes.jpg)
 
-## 🛠️ Τεχνολογίες
+
+🛠️ Technologies
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
 
----
 
-### 📁 Δομή
+📁 Project Structure
 - index.html
 - style.css
 - script.js
@@ -29,7 +31,5 @@
 - favicon.ico
 
 
----
-
-## 📬 Επικοινωνία
-Αν θέλετε να συνεργαστούμε ή να σχολιάσετε το έργο, μπορείτε να επικοινωνήσετε μαζί μου μέσω GitHub.
+📬 Contact
+If you would like to collaborate or share feedback on this project, feel free to reach out to me via GitHub.
