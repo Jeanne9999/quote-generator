@@ -25,7 +25,7 @@
 - style.css
 - script.js
 - README.md
-- preview.png
+- Scr_quotes.jpg
 - favicon.ico
 
 
