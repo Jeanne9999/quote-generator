@@ -17,7 +17,7 @@ A simple JavaScript app that displays random quotes each time a button is presse
 
 ## 📷 Screenshot 
 
-![Preview](Scr_quotes.jpg)
+![Preview](preview.jpg)
 
 
 ## 🛠️ Technologies 
