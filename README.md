@@ -11,7 +11,7 @@
 Δες το live: [Δες εδώ](http://Jeanne9999.github.io/quote-generator/)
 
 ## 📷 Screenshot
-![Preview](preview.png)
+![Preview](Scr_quotes.jpg)
 
 ## 🛠️ Τεχνολογίες
 - HTML5
