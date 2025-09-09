@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   background: #42397d;
-  background: radial-gradient(circle, rgba(66, 57, 125, 1) 0%, rgba(80, 80, 186, 1) 15%, rgba(0, 212, 255, 1) 100%);
+  background: radial-gradient(circle, rgba(66, 57, 125, 1) 0%, rgb(88, 88, 198) 15%, rgba(0, 212, 255, 1) 100%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,20 +24,22 @@ body {
 }
 
 button {
-  background: #5882b6;
+  background: #3f78be;
   color: white;
   border: none;
   padding: 0.7rem 1.4rem;
   border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   cursor: pointer;
   font-size: 0.9rem;
 }
 
 button:hover {
-  background: #547eab;
+  background: #33629c;
 }
 
 button:active {
   transform: scale(0.9);
-  background: #4b719a;
+  background: #33629c;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
